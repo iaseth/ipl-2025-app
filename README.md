@@ -1,6 +1,8 @@
-# sv
+# ipl-2025-app
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+
+![screenshot](screenshots/screenshot.png)
 
 ## Creating a project
 
