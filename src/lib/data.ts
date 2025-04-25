@@ -4,6 +4,7 @@ import dataJson from './data.json';
 
 export interface PointsTableDS {
 	team: string;
+	abbr: string;
 	matches: number;
 	wins: number;
 	losses: number;

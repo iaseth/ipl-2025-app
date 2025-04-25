@@ -2,6 +2,7 @@
 	"pointsTable": [
 		{
 			"team": "Gujarat Titans",
+			"abbr": "GT",
 			"matches": 8,
 			"wins": 6,
 			"losses": 2,
@@ -12,6 +13,7 @@
 		},
 		{
 			"team": "Delhi Capitals",
+			"abbr": "DC",
 			"matches": 8,
 			"wins": 6,
 			"losses": 2,
@@ -22,6 +24,7 @@
 		},
 		{
 			"team": "Royal Challengers Bengaluru",
+			"abbr": "RCB",
 			"matches": 9,
 			"wins": 6,
 			"losses": 3,
@@ -32,6 +35,7 @@
 		},
 		{
 			"team": "Mumbai Indians",
+			"abbr": "MI",
 			"matches": 9,
 			"wins": 5,
 			"losses": 4,
@@ -42,6 +46,7 @@
 		},
 		{
 			"team": "Punjab Kings",
+			"abbr": "PBKS",
 			"matches": 8,
 			"wins": 5,
 			"losses": 3,
@@ -52,6 +57,7 @@
 		},
 		{
 			"team": "Lucknow Super Giants",
+			"abbr": "LSG",
 			"matches": 9,
 			"wins": 5,
 			"losses": 4,
@@ -62,6 +68,7 @@
 		},
 		{
 			"team": "Kolkata Knight Riders",
+			"abbr": "KKR",
 			"matches": 8,
 			"wins": 3,
 			"losses": 5,
@@ -72,6 +79,7 @@
 		},
 		{
 			"team": "Rajasthan Royals",
+			"abbr": "RR",
 			"matches": 9,
 			"wins": 2,
 			"losses": 7,
@@ -82,6 +90,7 @@
 		},
 		{
 			"team": "Sunrisers Hyderabad",
+			"abbr": "SRH",
 			"matches": 8,
 			"wins": 2,
 			"losses": 6,
@@ -92,6 +101,7 @@
 		},
 		{
 			"team": "Chennai Super Kings",
+			"abbr": "CSK",
 			"matches": 8,
 			"wins": 2,
 			"losses": 6,
@@ -111,15 +121,15 @@
 		},
 		{
 			"teams": [
-				"Chennai Super Kings",
-				"Mumbai Indians"
+				"Rajasthan Royals",
+				"Sunrisers Hyderabad"
 			],
 			"finished": true
 		},
 		{
 			"teams": [
-				"Rajasthan Royals",
-				"Sunrisers Hyderabad"
+				"Chennai Super Kings",
+				"Mumbai Indians"
 			],
 			"finished": true
 		},
@@ -167,15 +177,15 @@
 		},
 		{
 			"teams": [
-				"Delhi Capitals",
-				"Sunrisers Hyderabad"
+				"Chennai Super Kings",
+				"Rajasthan Royals"
 			],
 			"finished": true
 		},
 		{
 			"teams": [
-				"Chennai Super Kings",
-				"Rajasthan Royals"
+				"Delhi Capitals",
+				"Sunrisers Hyderabad"
 			],
 			"finished": true
 		},
@@ -244,15 +254,15 @@
 		},
 		{
 			"teams": [
-				"Kolkata Knight Riders",
-				"Lucknow Super Giants"
+				"Chennai Super Kings",
+				"Punjab Kings"
 			],
 			"finished": true
 		},
 		{
 			"teams": [
-				"Chennai Super Kings",
-				"Punjab Kings"
+				"Kolkata Knight Riders",
+				"Lucknow Super Giants"
 			],
 			"finished": true
 		},
@@ -279,15 +289,15 @@
 		},
 		{
 			"teams": [
-				"Punjab Kings",
-				"Sunrisers Hyderabad"
+				"Gujarat Titans",
+				"Lucknow Super Giants"
 			],
 			"finished": true
 		},
 		{
 			"teams": [
-				"Gujarat Titans",
-				"Lucknow Super Giants"
+				"Punjab Kings",
+				"Sunrisers Hyderabad"
 			],
 			"finished": true
 		},
