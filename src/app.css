@@ -7,6 +7,6 @@
 }
 
 body {
-	@apply overflow-x-hidden;
+	@apply overflow-x-hidden select-none;
 	font-family: Ubuntu, sans-serif;
 }

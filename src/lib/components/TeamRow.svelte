@@ -18,7 +18,7 @@ const { simulations } = result;
 
 <tr>
 	<td>{position}</td>
-	<td class="text-left font-bold">
+	<td class="text-left font-bold text-base">
 		<Text text={team.team} mobile={team.abbr} />
 	</td>
 	<td>{team.matches}</td>
