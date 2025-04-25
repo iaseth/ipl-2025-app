@@ -15,7 +15,7 @@ const pc = positive * 100 / simulations;
 
 <div class="py-1 space-y-1.5 text-sm">
 	<p class="font-bold opacity-70">{header}</p>
-	<h2 class="text-3xl font-bold">
+	<h2 class="text-xl md:text-2xl lg:text-3xl font-bold">
 		<span>{pc < 10 ? pc.toFixed(2) : pc.toFixed(1)}</span>
 		<span class="text-xl">%</span>
 	</h2>
