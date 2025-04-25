@@ -2,6 +2,8 @@
 <script lang="ts">
 	
 import RainbowBorder from "$lib/components/RainbowBorder.svelte";
+	import TeamRow from "$lib/components/TeamRow.svelte";
+	import Text from "$lib/components/Text.svelte";
 import { pointsTable } from "$lib/data";
 
 </script>
@@ -23,30 +25,25 @@ import { pointsTable } from "$lib/data";
 			<tr>
 				<th>#</th>
 				<th class="text-left">Team</th>
-				<th>Matches</th>
-				<th>Won</th>
-				<th>Lost</th>
-				<th>Points</th>
+				<th>
+					<Text text="Matches" mobile="M" />
+				</th>
+				<th>
+					<Text text="Won" mobile="W" />
+				</th>
+				<th>
+					<Text text="Lost" mobile="L" />
+				</th>
+				<th>
+					<Text text="Points" mobile="P" />
+				</th>
 				<th>NRR</th>
 			</tr>
 		</thead>
 
 		<tbody>
 			{#each pointsTable as team, index}
-				<tr>
-					<td>{index+1}</td>
-					<td class="text-left">{team.team}</td>
-					<td>{team.matches}</td>
-					<td>{team.wins}</td>
-					<td>{team.losses}</td>
-					<td>{team.points}</td>
-					<td>{team.nrr}</td>
-				</tr>
-
-				<tr hidden>
-					<td></td>
-					<td colspan="6" class="text-center"></td>
-				</tr>
+				<TeamRow {team} position={index+1} />
 			{/each}
 		</tbody>
 	</table>

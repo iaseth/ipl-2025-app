@@ -1,0 +1,23 @@
+
+<script lang="ts">
+
+interface Props {
+	positive: number,
+	simulations: number,
+	header: string,
+	footer: string
+}
+
+let { positive, simulations, header, footer }: Props = $props();
+const pc = positive * 100 / simulations;
+
+</script>
+
+<div class="py-1 space-y-1.5 text-sm">
+	<p class="font-bold opacity-70">{header}</p>
+	<h2 class="text-3xl font-bold">
+		<span>{pc < 10 ? pc.toFixed(2) : pc.toFixed(1)}</span>
+		<span class="text-xl">%</span>
+	</h2>
+	<p class="opacity-70">{footer}</p>
+</div>
