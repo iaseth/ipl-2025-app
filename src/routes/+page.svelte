@@ -49,7 +49,7 @@ import { pointsTable } from "$lib/data";
 	</table>
 </section>
 
-<footer class="h-32"></footer>
+<footer class="h-20"></footer>
 
 <footer class="footer sm:footer-horizontal footer-center bg-base-300 text-base-content px-4 py-12">
 	<aside>

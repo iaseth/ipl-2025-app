@@ -3,9 +3,10 @@
 @plugin '@tailwindcss/typography';
 
 @plugin "daisyui" {
-	themes: light --default, dark --prefersdark, dark;
+	themes: dark --default, dark --prefersdark, dark;
 }
 
 body {
 	@apply overflow-x-hidden;
+	font-family: Ubuntu, sans-serif;
 }
