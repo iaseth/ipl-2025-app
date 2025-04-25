@@ -1,6 +1,7 @@
 
 <script lang="ts">
 	
+import RainbowBorder from "$lib/components/RainbowBorder.svelte";
 import { pointsTable } from "$lib/data";
 
 </script>
@@ -8,6 +9,8 @@ import { pointsTable } from "$lib/data";
 <svelte:head>
 	<title>IPL 2025 Chances</title>
 </svelte:head>
+
+<RainbowBorder />
 
 <a class="block px-4 py-10 text-center" href="/">
 	<h1 class="text-4xl font-bold mb-1">Chances</h1>
@@ -41,3 +44,5 @@ import { pointsTable } from "$lib/data";
 		</tbody>
 	</table>
 </section>
+
+<RainbowBorder />
