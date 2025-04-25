@@ -37,4 +37,22 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+## Run Simulations
+
+To run 10k simulations for playoff probabilities:
+
+```bash
+python3 sim.py sim -n 10000
+```
+
+## Screenshot
+
+To take a screenshot of your app:
+
+```bash
+python3 shoot.py
+```
+
+This will take the screenshot and save it as `screenshot.png`.
+
+
