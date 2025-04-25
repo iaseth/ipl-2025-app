@@ -1,4 +1,5 @@
 import dataJson from './data.json';
+import resultsJson from './results.json';
 
 
 
@@ -21,3 +22,14 @@ export interface MatchDS {
 
 export const pointsTable: PointsTableDS[] = dataJson.pointsTable;
 export const matches: MatchDS[] = dataJson.matches;
+
+export interface ResultsDS {
+	team: string;
+	top2: number;
+	top2nrr: number;
+	top4: number;
+	top4nrr: number;
+	simulations: number;
+}
+
+export const results: ResultsDS[] = resultsJson.results;

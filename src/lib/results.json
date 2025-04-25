@@ -1,0 +1,84 @@
+{
+	"results": [
+		{
+			"team": "Chennai Super Kings",
+			"top2": 1,
+			"top2nrr": 434,
+			"top4": 448,
+			"top4nrr": 3311,
+			"simulations": 100000
+		},
+		{
+			"team": "Delhi Capitals",
+			"top2": 30472,
+			"top2nrr": 36949,
+			"top4": 42059,
+			"top4nrr": 48742,
+			"simulations": 100000
+		},
+		{
+			"team": "Gujarat Titans",
+			"top2": 30663,
+			"top2nrr": 37461,
+			"top4": 42528,
+			"top4nrr": 49039,
+			"simulations": 100000
+		},
+		{
+			"team": "Kolkata Knight Riders",
+			"top2": 374,
+			"top2nrr": 2901,
+			"top4": 2808,
+			"top4nrr": 12273,
+			"simulations": 100000
+		},
+		{
+			"team": "Lucknow Super Giants",
+			"top2": 6049,
+			"top2nrr": 16460,
+			"top4": 19182,
+			"top4nrr": 36647,
+			"simulations": 100000
+		},
+		{
+			"team": "Mumbai Indians",
+			"top2": 5749,
+			"top2nrr": 16445,
+			"top4": 19190,
+			"top4nrr": 36769,
+			"simulations": 100000
+		},
+		{
+			"team": "Punjab Kings",
+			"top2": 11955,
+			"top2nrr": 24014,
+			"top4": 29363,
+			"top4nrr": 41597,
+			"simulations": 100000
+		},
+		{
+			"team": "Rajasthan Royals",
+			"top2": 0,
+			"top2nrr": 5,
+			"top4": 7,
+			"top4nrr": 999,
+			"simulations": 100000
+		},
+		{
+			"team": "Royal Challengers Bengaluru",
+			"top2": 19493,
+			"top2nrr": 32422,
+			"top4": 38486,
+			"top4nrr": 47298,
+			"simulations": 100000
+		},
+		{
+			"team": "Sunrisers Hyderabad",
+			"top2": 2,
+			"top2nrr": 506,
+			"top4": 461,
+			"top4nrr": 3581,
+			"simulations": 100000
+		}
+	]
+}
