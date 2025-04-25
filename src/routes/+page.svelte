@@ -9,7 +9,12 @@ import { pointsTable } from "$lib/data";
 	<title>IPL 2025 Chances</title>
 </svelte:head>
 
-<section class="py-6">
+<a class="block px-4 py-10 text-center" href="/">
+	<h1 class="text-4xl font-bold mb-1">Chances</h1>
+	<p class="text-sm">Created by Ankur Seth</p>
+</a>
+
+<section>
 	<table class="table max-w-3xl mx-auto text-right">
 		<thead>
 			<tr>
