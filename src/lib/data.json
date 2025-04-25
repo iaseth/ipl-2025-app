@@ -1,0 +1,596 @@
+{
+	"pointsTable": [
+		{
+			"team": "Gujarat Titans",
+			"matches": 8,
+			"wins": 6,
+			"losses": 2,
+			"ties": 0,
+			"no_results": 0,
+			"points": 12,
+			"nrr": 1.104
+		},
+		{
+			"team": "Delhi Capitals",
+			"matches": 8,
+			"wins": 6,
+			"losses": 2,
+			"ties": 0,
+			"no_results": 0,
+			"points": 12,
+			"nrr": 0.657
+		},
+		{
+			"team": "Royal Challengers Bengaluru",
+			"matches": 9,
+			"wins": 6,
+			"losses": 3,
+			"ties": 0,
+			"no_results": 0,
+			"points": 12,
+			"nrr": 0.482
+		},
+		{
+			"team": "Mumbai Indians",
+			"matches": 9,
+			"wins": 5,
+			"losses": 4,
+			"ties": 0,
+			"no_results": 0,
+			"points": 10,
+			"nrr": 0.673
+		},
+		{
+			"team": "Punjab Kings",
+			"matches": 8,
+			"wins": 5,
+			"losses": 3,
+			"ties": 0,
+			"no_results": 0,
+			"points": 10,
+			"nrr": 0.177
+		},
+		{
+			"team": "Lucknow Super Giants",
+			"matches": 9,
+			"wins": 5,
+			"losses": 4,
+			"ties": 0,
+			"no_results": 0,
+			"points": 10,
+			"nrr": -0.054
+		},
+		{
+			"team": "Kolkata Knight Riders",
+			"matches": 8,
+			"wins": 3,
+			"losses": 5,
+			"ties": 0,
+			"no_results": 0,
+			"points": 6,
+			"nrr": 0.212
+		},
+		{
+			"team": "Rajasthan Royals",
+			"matches": 9,
+			"wins": 2,
+			"losses": 7,
+			"ties": 0,
+			"no_results": 0,
+			"points": 4,
+			"nrr": -0.625
+		},
+		{
+			"team": "Sunrisers Hyderabad",
+			"matches": 8,
+			"wins": 2,
+			"losses": 6,
+			"ties": 0,
+			"no_results": 0,
+			"points": 4,
+			"nrr": -1.361
+		},
+		{
+			"team": "Chennai Super Kings",
+			"matches": 8,
+			"wins": 2,
+			"losses": 6,
+			"ties": 0,
+			"no_results": 0,
+			"points": 4,
+			"nrr": -1.392
+		}
+	],
+	"matches": [
+		{
+			"teams": [
+				"Kolkata Knight Riders",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Mumbai Indians"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Rajasthan Royals",
+				"Sunrisers Hyderabad"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Lucknow Super Giants"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Punjab Kings"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Kolkata Knight Riders",
+				"Rajasthan Royals"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Lucknow Super Giants",
+				"Sunrisers Hyderabad"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Mumbai Indians"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Sunrisers Hyderabad"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Rajasthan Royals"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Kolkata Knight Riders",
+				"Mumbai Indians"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Lucknow Super Giants",
+				"Punjab Kings"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Kolkata Knight Riders",
+				"Sunrisers Hyderabad"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Lucknow Super Giants",
+				"Mumbai Indians"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Delhi Capitals"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Punjab Kings",
+				"Rajasthan Royals"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Sunrisers Hyderabad"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Mumbai Indians",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Kolkata Knight Riders",
+				"Lucknow Super Giants"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Punjab Kings"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Rajasthan Royals"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Kolkata Knight Riders"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Punjab Kings",
+				"Sunrisers Hyderabad"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Lucknow Super Giants"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Rajasthan Royals",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Mumbai Indians"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Lucknow Super Giants"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Kolkata Knight Riders",
+				"Punjab Kings"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Rajasthan Royals"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Mumbai Indians",
+				"Sunrisers Hyderabad"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Punjab Kings",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Lucknow Super Giants",
+				"Rajasthan Royals"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Gujarat Titans"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Mumbai Indians"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Punjab Kings",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Kolkata Knight Riders"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Lucknow Super Giants"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Mumbai Indians",
+				"Sunrisers Hyderabad"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Rajasthan Royals",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": true
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Sunrisers Hyderabad"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Kolkata Knight Riders",
+				"Punjab Kings"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Lucknow Super Giants",
+				"Mumbai Indians"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Rajasthan Royals"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Kolkata Knight Riders"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Punjab Kings"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Mumbai Indians",
+				"Rajasthan Royals"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Sunrisers Hyderabad"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Lucknow Super Giants",
+				"Punjab Kings"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Kolkata Knight Riders",
+				"Rajasthan Royals"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Sunrisers Hyderabad"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Mumbai Indians"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Kolkata Knight Riders"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Punjab Kings"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Lucknow Super Giants",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Kolkata Knight Riders",
+				"Sunrisers Hyderabad"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Gujarat Titans"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Mumbai Indians",
+				"Punjab Kings"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Rajasthan Royals"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Royal Challengers Bengaluru",
+				"Sunrisers Hyderabad"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Gujarat Titans",
+				"Lucknow Super Giants"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Delhi Capitals",
+				"Mumbai Indians"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Punjab Kings",
+				"Rajasthan Royals"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Kolkata Knight Riders",
+				"Royal Challengers Bengaluru"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Chennai Super Kings",
+				"Gujarat Titans"
+			],
+			"finished": false
+		},
+		{
+			"teams": [
+				"Lucknow Super Giants",
+				"Sunrisers Hyderabad"
+			],
+			"finished": false
+		}
+	]
+}
