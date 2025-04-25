@@ -78,6 +78,17 @@
 			"nrr": 0.212
 		},
 		{
+			"team": "Sunrisers Hyderabad",
+			"abbr": "SRH",
+			"matches": 9,
+			"wins": 3,
+			"losses": 6,
+			"ties": 0,
+			"no_results": 0,
+			"points": 6,
+			"nrr": -1.103
+		},
+		{
 			"team": "Rajasthan Royals",
 			"abbr": "RR",
 			"matches": 9,
@@ -89,26 +100,15 @@
 			"nrr": -0.625
 		},
 		{
-			"team": "Sunrisers Hyderabad",
-			"abbr": "SRH",
-			"matches": 8,
-			"wins": 2,
-			"losses": 6,
-			"ties": 0,
-			"no_results": 0,
-			"points": 4,
-			"nrr": -1.361
-		},
-		{
 			"team": "Chennai Super Kings",
 			"abbr": "CSK",
-			"matches": 8,
+			"matches": 9,
 			"wins": 2,
-			"losses": 6,
+			"losses": 7,
 			"ties": 0,
 			"no_results": 0,
 			"points": 4,
-			"nrr": -1.392
+			"nrr": -1.302
 		}
 	],
 	"matches": [
@@ -411,7 +411,7 @@
 				"Chennai Super Kings",
 				"Sunrisers Hyderabad"
 			],
-			"finished": false
+			"finished": true
 		},
 		{
 			"teams": [
