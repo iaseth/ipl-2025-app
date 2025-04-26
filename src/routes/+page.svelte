@@ -2,8 +2,8 @@
 <script lang="ts">
 	
 import RainbowBorder from "$lib/components/RainbowBorder.svelte";
-	import TeamRow from "$lib/components/TeamRow.svelte";
-	import Text from "$lib/components/Text.svelte";
+import TeamRow from "$lib/components/TeamRow.svelte";
+import Text from "$lib/components/Text.svelte";
 import { pointsTable } from "$lib/data";
 
 </script>
