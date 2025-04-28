@@ -1,6 +1,17 @@
 {
 	"pointsTable": [
 		{
+			"team": "Royal Challengers Bengaluru",
+			"abbr": "RCB",
+			"matches": 10,
+			"wins": 7,
+			"losses": 3,
+			"ties": 0,
+			"no_results": 0,
+			"points": 14,
+			"nrr": 0.521
+		},
+		{
 			"team": "Gujarat Titans",
 			"abbr": "GT",
 			"matches": 8,
@@ -12,19 +23,19 @@
 			"nrr": 1.104
 		},
 		{
-			"team": "Delhi Capitals",
-			"abbr": "DC",
-			"matches": 8,
+			"team": "Mumbai Indians",
+			"abbr": "MI",
+			"matches": 10,
 			"wins": 6,
-			"losses": 2,
+			"losses": 4,
 			"ties": 0,
 			"no_results": 0,
 			"points": 12,
-			"nrr": 0.657
+			"nrr": 0.889
 		},
 		{
-			"team": "Royal Challengers Bengaluru",
-			"abbr": "RCB",
+			"team": "Delhi Capitals",
+			"abbr": "DC",
 			"matches": 9,
 			"wins": 6,
 			"losses": 3,
@@ -45,26 +56,15 @@
 			"nrr": 0.177
 		},
 		{
-			"team": "Mumbai Indians",
-			"abbr": "MI",
-			"matches": 9,
-			"wins": 5,
-			"losses": 4,
-			"ties": 0,
-			"no_results": 0,
-			"points": 10,
-			"nrr": 0.673
-		},
-		{
 			"team": "Lucknow Super Giants",
 			"abbr": "LSG",
-			"matches": 9,
+			"matches": 10,
 			"wins": 5,
-			"losses": 4,
+			"losses": 5,
 			"ties": 0,
 			"no_results": 0,
 			"points": 10,
-			"nrr": -0.054
+			"nrr": -0.325
 		},
 		{
 			"team": "Kolkata Knight Riders",
@@ -425,14 +425,14 @@
 				"Lucknow Super Giants",
 				"Mumbai Indians"
 			],
-			"finished": false
+			"finished": true
 		},
 		{
 			"teams": [
 				"Delhi Capitals",
 				"Royal Challengers Bengaluru"
 			],
-			"finished": false
+			"finished": true
 		},
 		{
 			"teams": [
