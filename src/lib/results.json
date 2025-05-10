@@ -3,81 +3,81 @@
 		{
 			"team": "Chennai Super Kings",
 			"top2": 0,
-			"top2nrr": 1,
-			"top4": 9,
-			"top4nrr": 991,
+			"top2nrr": 0,
+			"top4": 0,
+			"top4nrr": 0,
 			"simulations": 200000
 		},
 		{
 			"team": "Delhi Capitals",
-			"top2": 45603,
-			"top2nrr": 52166,
-			"top4": 103356,
-			"top4nrr": 60052,
+			"top2": 17158,
+			"top2nrr": 12628,
+			"top4": 87663,
+			"top4nrr": 28402,
 			"simulations": 200000
 		},
 		{
 			"team": "Gujarat Titans",
-			"top2": 72372,
-			"top2nrr": 58064,
-			"top4": 116936,
-			"top4nrr": 62589,
+			"top2": 105508,
+			"top2nrr": 43952,
+			"top4": 162555,
+			"top4nrr": 36158,
 			"simulations": 200000
 		},
 		{
 			"team": "Kolkata Knight Riders",
-			"top2": 976,
-			"top2nrr": 717,
-			"top4": 7034,
-			"top4nrr": 6533,
+			"top2": 0,
+			"top2nrr": 0,
+			"top4": 0,
+			"top4nrr": 4138,
 			"simulations": 200000
 		},
 		{
 			"team": "Lucknow Super Giants",
-			"top2": 3875,
-			"top2nrr": 14634,
-			"top4": 26021,
-			"top4nrr": 39863,
+			"top2": 0,
+			"top2nrr": 294,
+			"top4": 2446,
+			"top4nrr": 15033,
 			"simulations": 200000
 		},
 		{
 			"team": "Mumbai Indians",
-			"top2": 23433,
-			"top2nrr": 40061,
-			"top4": 81049,
-			"top4nrr": 57655,
+			"top2": 8791,
+			"top2nrr": 23027,
+			"top4": 93075,
+			"top4nrr": 31072,
 			"simulations": 200000
 		},
 		{
 			"team": "Punjab Kings",
-			"top2": 34215,
-			"top2nrr": 11680,
-			"top4": 75341,
-			"top4nrr": 43407,
+			"top2": 62042,
+			"top2nrr": 26647,
+			"top4": 146334,
+			"top4nrr": 34069,
 			"simulations": 200000
 		},
 		{
 			"team": "Rajasthan Royals",
 			"top2": 0,
 			"top2nrr": 0,
-			"top4": 9,
-			"top4nrr": 1141,
+			"top4": 0,
+			"top4nrr": 0,
 			"simulations": 200000
 		},
 		{
 			"team": "Royal Challengers Bengaluru",
-			"top2": 74934,
-			"top2nrr": 62802,
-			"top4": 124773,
-			"top4nrr": 64217,
+			"top2": 106909,
+			"top2nrr": 45478,
+			"top4": 163295,
+			"top4nrr": 36158,
 			"simulations": 200000
 		},
 		{
 			"team": "Sunrisers Hyderabad",
-			"top2": 16,
-			"top2nrr": 1493,
-			"top4": 2388,
-			"top4nrr": 7965,
+			"top2": 0,
+			"top2nrr": 0,
+			"top4": 0,
+			"top4nrr": 0,
 			"simulations": 200000
 		}
 	]
